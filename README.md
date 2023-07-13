@@ -1,5 +1,5 @@
 # enviando-zap-fastapi
-API que enviar uma mensagem via WhatsApp Web usando FastAPI e pywhatkit
+API que envia uma mensagem via WhatsApp Web usando FastAPI e pywhatkit
 
 - É necessário a fazer o download da biblioteca pythatkit
 - A API foi instalada em um localhost usando uvicorn
